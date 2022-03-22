@@ -7,7 +7,7 @@ PLC timers instruction is used to activate or deactivate a device after a preset
 
 ### On-Delay Timer (TON)
 It is used when an action is to begin a specified time after the input becomes true.
-Consider an example wherein a certain step in the manufacturing process is to begin 30 seconds after a signal is received from a limit switch. The 30 seconds delay is the ON-delay timer’s preset value.
+Consider an example wherein a certain step in the manufacturing process is to begin 30 seconds after a signal is received from a limit switch. The 30 seconds delay is the ON-delay timer's preset value.
 The figure below shows a symbolic representation of the timer.
 
 <center><img src="images/img3.jpg" title="" /></center>
