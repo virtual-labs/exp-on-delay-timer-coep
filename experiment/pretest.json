@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Input modules provide an interface between:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Field equipment and the CPU",
+        "b": "Input modules and the CPU",
+        "c": "Output modules and the field devices",
+        "d": "None"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In which of the following processes a real time operation is involved?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Level control of a tank",
+        "b": "Traffic signal",
+        "c": "Starting of motor using DOL starter",
+        "d": "None"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The sequence of steps repeated by the processor to perform the duties of the PLC is called:",
+      "answers": {
+        "a": "Polling",
+        "b": "Updating",
+        "c": "Scanning",
+        "d": "None"
       },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is a PLC programming standard?",
+      "answers": {
+        "a": "IEC 61107",
+        "b": "IEC 61131-3",
+        "c": "ANSI/ISA S-88",
+        "d": "None"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The programming functions available in PLC are determined by:",
+      "answers": {
+        "a": "Input module",
+        "b": "Programming device",
+        "c": "Output module",
+        "d": "CPU"
+      },
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
